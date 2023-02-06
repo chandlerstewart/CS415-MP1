@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBarHUD.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Healthpack.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_TunnelBase.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel_Dynamic.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/NewTexture2DArray.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Temp.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel_Inst.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/chans/OneDrive/Desktop/School/Spring 2023/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset"
+			]
+		}
+	]
+}
